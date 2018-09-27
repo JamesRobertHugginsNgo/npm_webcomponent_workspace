@@ -2,7 +2,7 @@
 
 A starter project for ES6 web component development.
 
-Includes JQuery 3,Bootstrap 4, Backbone, Underscore & Babel Polifill.
+Includes JQuery 3, Bootstrap 4, Backbone, Underscore & Babel Polifill.
 
 ## Setup
 
