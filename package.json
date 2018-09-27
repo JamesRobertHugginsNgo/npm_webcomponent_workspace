@@ -14,6 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-plugin-transform-custom-element-classes": "^0.1.0",
+    "babel-plugin-transform-es2015-classes": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "browserify": "^16.2.2",
